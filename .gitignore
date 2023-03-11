@@ -1,0 +1,12 @@
+*.user
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+
+*.zip
+*.rar
+*.7z
+*.iso
+*.bak
+*.trn
